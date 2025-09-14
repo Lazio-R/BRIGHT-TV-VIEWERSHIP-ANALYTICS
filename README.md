@@ -6,7 +6,7 @@ BrightTV is aiming to grow its subscription base this year, and understanding ho
 
 ## Material and Data Sources
 
-BrightTV Case Study 
+- BrightTV Case Study 
 User_Profiles
 Viewership
 Data Validation-Viewership info - PivotCharts
