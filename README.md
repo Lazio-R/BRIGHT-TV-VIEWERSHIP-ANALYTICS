@@ -6,17 +6,13 @@ BrightTV is aiming to grow its subscription base this year, and understanding ho
 
 ## Material and Data Sources
 
-- BrightTV Case Study 
+- Project Case Study 
 - User_Profiles
 - Viewership
-- Data Validation-Viewership info - PivotCharts
-- Bright TV Viewership Presentation
-- Bright TV Viewership Analytics Dataset
-- Bright TV Viewership Analytics Dataset-PivotChat
-- Bright TV Viewership Analytics Code
-- Data Validation-Viewership info
-- Bright TV Presentation Plan
-- Bright TV Data Validation code
+- Final Project Presentation
+- Viewership Analytics Dataset
+- Snowflake SQL Code
+- Miro Project Plan
 
 ## Presentation Highlights
 
@@ -31,7 +27,7 @@ BrightTV is aiming to grow its subscription base this year, and understanding ho
 ## Tools & Technologies Used
 
 - Miro - for planning
-- Excel - to preview, inspect the data and create pivot charts
-- Snowflake - for processing the sql code and creating dashboard
+- Excel - to preview, inspect the data and create pivot charts/tables
+- Snowflake/Databricks - for processing the sql code
 - Canva - for presentation slides
 
