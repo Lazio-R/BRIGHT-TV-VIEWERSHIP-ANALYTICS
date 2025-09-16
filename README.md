@@ -7,10 +7,10 @@ BrightTV is aiming to grow its subscription base this year, and understanding ho
 ## Material and Data Sources
 
 - Project Case Study 
-- User_Profiles
-- Viewership
+- User_Profiles Dataset
+- Viewership Dataset
 - Final Project Presentation
-- Viewership Analytics Dataset
+- Viewership Analytics Dataset + PivotCharts + Tables
 - Snowflake SQL Code
 - Miro Project Plan
 
