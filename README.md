@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-BrightTV is aiming to grow its subscription base this year, and understanding how users engage with the platform is key. In this presentation, we’ll explore user and usage trends, identify what drives content consumption, and recommend strategies to boost engagement especially on low consumption days. The goal is to equip the CVM team with clear, data-driven actions to accelerate growth.
+Bright TV is aiming to grow its subscription base this year, and understanding how users engage with the platform is key. In this presentation, we’ll explore user and usage trends, identify what drives content consumption, and recommend strategies to boost engagement especially on low consumption days. The goal is to equip the CVM team with clear, data-driven actions to accelerate growth.
 
 ## Material and Data Sources
 
