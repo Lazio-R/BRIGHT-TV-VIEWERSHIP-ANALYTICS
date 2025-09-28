@@ -10,6 +10,7 @@ Bright TV is aiming to grow its subscription base this year, and understanding h
 - User_Profiles Dataset
 - Viewership Dataset
 - Final Project Presentation
+- Power BI Dashbord 
 - Final Viewership Analytics Dataset + PivotCharts + Tables
 - Snowflake SQL Code
 - Miro Project Plan
